@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @takue01
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on web development on both frontend and backend
-- 📫 To reach me use email munenetakudzwa@gmail.com
+Hi, I'm Takudzwa Munene 👋
+I’m a dedicated Computer Science student passionate about building robust and scalable web and mobile applications. With a solid foundation in both frontend and backend development, I continuously expand my skillset to include diverse programming languages and data-driven solutions.
 
+🌱 Currently deepening my knowledge in Computer Science, focusing on software development principles and data structures.
 
+💻 Proficient in programming languages including Python, Java, and PHP.
 
-<!---
-takue01/takue01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 Skilled in data analytics, leveraging tools and frameworks to extract meaningful insights from complex datasets.
+
+⚙️ Experienced with web frameworks and tools such as Django, Bootstrap, and WordPress.
+
+🤝 Open to collaborating on full-stack web development projects that challenge and expand my expertise.
+
+📫 Feel free to reach out via email: munenetakudzwa@gmail.com for collaboration or professional inquiries.
+
+Let’s create innovative and impactful tech solutions together!
